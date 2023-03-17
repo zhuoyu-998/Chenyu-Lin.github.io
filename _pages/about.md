@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior in Fuzhou University, Fujian, China, who major in Mechanical Design and Their Automation. My research interests focus on artificial intelligence, computer vision and deep learning. You can click [here] to view my curriculum vitae.
+I am a senior in [Fuzhou University](https://www.fzu.edu.cn/), Fujian, China, who major in Mechanical Design and Their Automation. My research interests focus on artificial intelligence, computer vision and deep learning. You can click [here] to view my curriculum vitae.
 
 About me
 ======
