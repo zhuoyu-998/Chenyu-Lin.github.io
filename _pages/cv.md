@@ -19,8 +19,8 @@ Education
 Skills
 ======
 * C/C++ and Python programming
-  *Object detection via Pytorch and YOLOv5.   
-  *Image super-resolution reconstruction via Pytorch.
+  * Object detection via Pytorch and YOLOv5.   
+  * Image super-resolution reconstruction via Pytorch.
 * Mechanical engineering skills
   * Mechanical drawing using AutoCAD; 3D modelling using Creo.
   * CFD using COMSOL.
