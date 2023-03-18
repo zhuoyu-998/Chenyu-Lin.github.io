@@ -20,5 +20,5 @@ Our team has made a voice controlled light switch as a curriculum design. I have
 
 <iframe src="//player.bilibili.com/player.html?aid=611093232&bvid=BV1184y1c7XH&cid=1054940614&page=1" width="560" height="315"
 frameborder="0" allowfullscreen class="video"></iframe>
-</div>
+</iframe>
 
