@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.E. in Mechanical Design and Automation, Fuzhou University, 2023 (expected)
-  *CET6: 562(Near perfect score of 248 in the reading comprehension section)
-  *Courses studied: Fundamentals of Mechanical Design, Robotics, Microprocessor Principles, Electrical Engineering, Introduction to Experimental Fluid Dynamics, etc.
+  * CET6: 562(Near perfect score of 248 in the reading comprehension section)
+  * Courses studied: Fundamentals of Mechanical Design, Robotics, Microprocessor Principles, Electrical Engineering, Introduction to Experimental Fluid Dynamics, etc.
 
   
 Skills
