@@ -27,13 +27,8 @@ Skills
 * Other skills
   * Video editing using Adobe Premiere.
   * Picture processing using Adobe Lightroom and Photoshop.
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
-  
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* 100 hours of volunteer time.
