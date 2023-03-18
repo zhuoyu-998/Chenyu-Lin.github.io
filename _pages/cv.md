@@ -20,13 +20,13 @@ Skills
 ======
 * C/C++ and Python programming
   *Object detection via Pytorch and YOLOv5.   
-  *
+  *Image super-resolution reconstruction via Pytorch.
 * Mechanical engineering skills
   * Mechanical drawing using AutoCAD; 3D modelling using Creo.
-  * CFD using COMSOL
+  * CFD using COMSOL.
 * Other skills
-  * Video editing using Adobe Premiere 
-  * Picture processing using Adobe Lightroom and Photoshop
+  * Video editing using Adobe Premiere.
+  * Picture processing using Adobe Lightroom and Photoshop.
 Publications
 ======
   <ul>{% for post in site.publications %}
