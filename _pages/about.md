@@ -18,7 +18,7 @@ My campus life is colourful and unforgettable. But the most enjoyable part for m
 
 Our team has made a voice controlled light switch as a curriculum design. I have done the main program in C, the tracking control system in MicroPython and the editing of this video.
 
-<iframe src="//player.bilibili.com/player.html?aid=611169530&bvid=BV1g84y1w7uU&cid=1058631345&page=1"&high_quality=1" width="840" height="472.5" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=611169530&bvid=BV1g84y1w7uU&cid=1058631345&page=1&high_quality=1" width="840" height="472.5" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
 A glance into the future
