@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior in [Fuzhou University](https://www.fzu.edu.cn/), Fujian, China, who major in Mechanical Design and Their Automation. My research interests focus on artificial intelligence, computer vision and deep learning. You can click [here] to view my curriculum vitae.
+I am a senior in [Fuzhou University](https://www.fzu.edu.cn/), Fujian, China, who major in Mechanical Design and Their Automation. My research interests focus on Internet of things, computer vision and deep learning. You can click [here](https://zhuoyu-998.github.io/Chenyu-Lin.github.io//cv/) to view my curriculum vitae.
 
 About me
 ======
@@ -20,5 +20,9 @@ Our team has made a voice controlled light switch as a curriculum design. I have
 
 <iframe src="//player.bilibili.com/player.html?aid=611093232&bvid=BV1184y1c7XH&cid=1054940614&page=1&high_quality=1" width="840" height="472.5"
 frameborder="0" allowfullscreen class="video"></iframe>
+
+A glance into the future
+=====
+Now I’m preparing entrance exams for postgraduate, aiming at [Southeast University](https://www.seu.edu.cn/). I’m looking forward to join the brand new environment and cooperate with new friends!
 
 
