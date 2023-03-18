@@ -11,20 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Mechanical Design and Automation, Fuzhou University, 2023 (expected)
+  *CET6: 562(Near perfect score of 248 in the reading comprehension section)
+  *Courses studied: Fundamentals of Mechanical Design, Robotics, Microprocessor Principles, Electrical Engineering, Introduction to Experimental Fluid Dynamics, etc.
 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* C/C++ and Python programming
+  *Object detection via Pytorch and YOLOv5.   
+  *
+* Mechanical engineering skills
+  * Mechanical drawing using AutoCAD; 3D modelling using Creo.
+  * CFD using COMSOL
+* Other skills
+  * Video editing using Adobe Premiere 
+  * Picture processing using Adobe Lightroom and Photoshop
 Publications
 ======
   <ul>{% for post in site.publications %}
