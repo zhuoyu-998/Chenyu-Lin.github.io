@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior in [Fuzhou University](https://www.fzu.edu.cn/), Fujian, China, who major in Mechanical Design and Their Automation. My research interests focus on Internet of things, computer vision and deep learning. You can click [here](https://zhuoyu-998.github.io/Chenyu-Lin.github.io//cv/) to view my curriculum vitae.
+I am a senior in [Fuzhou University](https://www.fzu.edu.cn/), Fujian, China, who major in Mechanical Design & Manufacturing and Their Automation. My research interests focus on Internet of things, computer vision and deep learning. You can click [here](https://zhuoyu-998.github.io/Chenyu-Lin.github.io//cv/) to view my curriculum vitae.
 
 About me
 ======
