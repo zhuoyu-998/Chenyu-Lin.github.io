@@ -31,7 +31,7 @@ Skills
 Project experiences
 =====
 * National-level SRTP:AFM super-resolution imaging study
-  * Introduction: In view of the long time and high cost of traditional AFM imaging, the current rapidly developing super-resolution technology is introduced into AFM imaging, and the different characteristics of different methods are used to compare with the super-resolution method based on double cubic interpolation, and the super-resolution method of AFM images is proposed.
+  * Introduction: In view of the long time and high cost of traditional AFM imaging, the current rapidly developing super-resolution technology is introduced into AFM imaging, and the different characteristics of different methods are used to compare with the super-resolution method based on double cubic interpolation, and propose the super-resolution method of AFM images.
   
 Service
 ======
