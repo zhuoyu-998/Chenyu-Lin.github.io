@@ -36,10 +36,11 @@ Project experiences
   * Project achievement:
     * Publication:
      * [1]林泓，**林晨宇**，吴腾，韩国强*，基于SRCNN的AFM超分辨率成像 [J].《机械制造与自动化》，已录用，2022.
-     * [2] Guoqiang Han, Teng Wu, Luyao Lv, Huaidong Li, Hong Lin, **Chenyu Lin**, Jian Luo*, Super-Resolution AFM Imaging Based on Enhanced Convolutional Neural 		Network[J].Nano, Accepted, 2022
+     * [2] Guoqiang Han, Teng Wu, Luyao Lv, Huaidong Li, Hong Lin, **Chenyu Lin**, Jian Luo*, Super-Resolution AFM Imaging Based on Enhanced Convolutional Neural 		Network[J].Nano, Accepted, 2022.
 * An Aliyun-based voice controlled light switch（2022）
   * Introduction: An electric light switch  controlled by Arduino ESP8266.It has the functions of voice recognition,and the switch is switched on and off by controlling the rotation of the tiller through Xiaoyao.
   * Duties included: Program debugging; editing of [demo video](https://www.bilibili.com/video/BV1g84y1w7uU/?vd_source=fe26f92cd0edfefb1b705f22b8722cfe).
+  * Project achievement: Be marked as the best curriculum design in “Microcomputer Principle” course
 
 <iframe src="//player.bilibili.com/player.html?aid=611169530&bvid=BV1g84y1w7uU&cid=1058631345&page=1&high_quality=1" width="840" height="472.5" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>.
 Service 
