@@ -42,7 +42,7 @@ Project experiences
   * Duties included: Program debugging; editing of [demo video](https://www.bilibili.com/video/BV1g84y1w7uU/?vd_source=fe26f92cd0edfefb1b705f22b8722cfe).
   * Project achievement: Be marked as the best curriculum design in “Microcomputer Principle” course
 
-<iframe src="//player.bilibili.com/player.html?aid=611169530&bvid=BV1g84y1w7uU&cid=1058631345&page=1&high_quality=1" width="840" height="472.5" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>.
+<iframe src="//player.bilibili.com/player.html?aid=611169530&bvid=BV1g84y1w7uU&cid=1058631345&page=1&high_quality=1" width="840" height="472.5" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 Service 
 ======
