@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.E. in Mechanical Design & Manufacturing and Their Automation, Fuzhou University, 2023 (expected)
+* B.E. in Mechanical Design & Manufacturing and Their Automation, [Fuzhou University](https://www.fzu.edu.cn/), 2023 (expected)
   * CET6: 562(Near perfect score of 248 in the reading comprehension section)
   * Courses studied: Fundamentals of Mechanical Design, Robotics, Microprocessor Principles, Electrical Engineering, Introduction to Experimental Fluid Dynamics, etc.
 
